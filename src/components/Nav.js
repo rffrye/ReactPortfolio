@@ -6,9 +6,9 @@ import Logo from "../imgs/Logo.png"
 const NavBar = ()=> {
 return (
         <Navbar bg="light" variant="light">
-            <Navbar.Brand href="/"> <img src={Logo} width="70px"/></Navbar.Brand>
+            <Navbar.Brand href="/ReactPortfolio"> <img src={Logo} width="70px"/></Navbar.Brand>
             <Nav className="mr-auto">
-            <Nav.Link href="/">Home</Nav.Link>
+            <Nav.Link href="/ReactPortfolio">Home</Nav.Link>
             <Nav.Link href="/portfolio">Portfolio</Nav.Link>
             <Nav.Link href="/Contact">Contact</Nav.Link>
             </Nav>

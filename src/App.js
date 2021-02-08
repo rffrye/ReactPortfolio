@@ -15,7 +15,7 @@ class App extends Component {
       <div className="App">
           <NavBar/>
             <Switch>
-              <Route exact path={"/"}>
+              <Route exact path={"/ReactPortfolio"}>
                 <About/>
               </Route>
               <Route exact path={"/portfolio"}>
