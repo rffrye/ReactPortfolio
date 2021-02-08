@@ -66,7 +66,7 @@ return (
                         of the card's content.
                     </Card.Text>
                     </Card.Body>
-                    <Card.Header><a href="https://github.com/rffrye/Week-18-Budget-Tracker">Git Hub</a>&ensp;|&ensp;<a href="https://budgettrackerrf.herokuapp.com/">App</a></Card.Header>
+                    <Card.Header><a href="https://github.com/rffrye/Homework4">Git Hub</a>&ensp;|&ensp;<a href="https://rffrye.github.io/Homework4/">App</a></Card.Header>
                 </Card>
             </Col>
             <Col md={4}>
