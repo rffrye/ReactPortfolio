@@ -18,10 +18,10 @@ class App extends Component {
               <Route exact path={"/ReactPortfolio"}>
                 <About/>
               </Route>
-              <Route exact path={"/portfolio"}>
+              <Route exact path={"/ReactPortfolio/portfolio"}>
               <Portfolio/>          
               </Route>
-              <Route exact path={"/contact"}>
+              <Route exact path={"/ReactPortfolio/contact"}>
               <Contact/>          
               </Route>
             </Switch>
